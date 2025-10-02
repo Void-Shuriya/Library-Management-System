@@ -24,4 +24,4 @@ It is a simple **console-based Library Management System** written in Java.
 
 ## 👨‍💻 Author
 
-**Shuriya Jayaseelaan**
+**Shuriya**
