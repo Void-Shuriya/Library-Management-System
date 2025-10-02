@@ -21,7 +21,3 @@ It is a simple **console-based Library Management System** written in Java.
 -   LibrarySystem.java # Main program
 -   Book.java # Book class
 -   Color.java # Console colors
-
-## 👨‍💻 Author
-
-**Shuriya**
